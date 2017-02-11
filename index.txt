@@ -1,2 +1,0 @@
-<p> Hello world new modifications for new branch!</p>
-This is a newly added line in branch1
